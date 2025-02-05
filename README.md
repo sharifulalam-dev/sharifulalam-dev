@@ -50,7 +50,7 @@
 <h2 align="center"> ⚡ Rapid Fire </h2>  
 <ul style="list-style: none; text-align: left; padding: 0;">
   <li>💼 I'm currently working on: <strong>💻 Developing a new Management Website using React and Node.js</strong></li>
-  <li>🌱 I'm currently learning: <strong>📚 Exploring Backend Technologies.</strong></li>
+  <li>🌱 I'm currently learning: <strong>📚 NextJs</strong></li>
   <li>💬 Ask me about: <strong>💡 JavaScript, React, Tailwind CSS</strong></li>
   <li>⚡ Fun fact: <strong>🎢 I want to make code simple.</strong></li>
 </ul>
