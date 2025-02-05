@@ -70,8 +70,7 @@
 ---
 
 <h2 align="center"> 📞 Contact Me </h2>  
-<ul style="list-style: none; text-align: center; padding: 0;">
+<ul style="list-style: none; text-align: left; padding: 0;">
   <li>📧 <strong>Email:</strong> sharifulalam.tex@gmail.com</li>
   <li>📱 <strong>Phone:</strong> +8801722172983</li>
-
 </ul>
