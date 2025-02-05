@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/jPP4wKqM/header-banner.png" alt="👋 Hi, my name is Shariful Alam">
+  <img src="https://i.ibb.co.com/jPP4wKqM/header-banner.png" alt="👋 Hi, My name is Shariful Alam">
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 ---
 
 <h2 align="center"> ⚡ Rapid Fire </h2>  
-<ul align="center">
+<ul style="list-style: none; text-align: left; padding: 0;">
   <li>💼 I'm currently working on: <strong>💻 Developing a new Management Website using React and Node.js</strong></li>
   <li>🌱 I'm currently learning: <strong>📚 Exploring Backend Technologies.</strong></li>
   <li>💬 Ask me about: <strong>💡 JavaScript, React, Tailwind CSS</strong></li>
@@ -70,7 +70,7 @@
 ---
 
 <h2 align="center"> 📞 Contact Me </h2>  
-<ul align="center">
+<ul style="list-style: none; text-align: center; padding: 0;">
   <li>📧 <strong>Email:</strong> sharifulalam.tex@gmail.com</li>
   <li>📱 <strong>Phone:</strong> +8801722172983</li>
 
